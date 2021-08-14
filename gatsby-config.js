@@ -4,7 +4,6 @@ module.exports = {
     title: "jacquesvb.com",
   },
   plugins: [
-    "gatsby-plugin-netlify-cms",
     "gatsby-plugin-emotion",
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
