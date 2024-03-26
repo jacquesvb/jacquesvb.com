@@ -21,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`
-        ${firaCode.className} 
+        ${firaCode.className}
         h-full 
         bg-amber-50 
         text-indigo-950 
