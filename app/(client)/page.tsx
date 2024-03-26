@@ -17,7 +17,7 @@ export default function Home() {
         </div>
         <div className="w-1/2 flex flex-col items-center justify-center">
           <Link href="/about">
-            <button className="btn btn-primary bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 w-60">About Me</button>
+            <button className="btn btn-primary bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 w-30 md:w-60">About Me</button>
           </Link>
         </div>
       </div>
