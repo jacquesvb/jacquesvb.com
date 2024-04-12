@@ -12,7 +12,7 @@ export default function Home() {
             src="/Jacques2.png"
             alt="Jacques Van Blokland"
             fill
-            className="top-0 left-0 w-full h-full object-cover"
+            className="object-scale-down max-h-full drop-shadow-md rounded-md m-auto"
           />
         </div>
         <div className="w-1/2 flex flex-col items-center justify-center pt-4 md:pt-0">
